@@ -26,4 +26,6 @@ function echoFiles() {
 
 <div class="container"><?php echoFiles() ?></div>
 
-<a href="https://github.com/morceaudebois/labels" style="margin-top: 4em; display: block;">Source 🌊</a>
+<p>
+    <a href="https://github.com/morceaudebois/labels" style="margin-top: 4em;">Source 🌊</a> · <a href="https://tahoe.be">Also check out my website!</a>
+</p>
